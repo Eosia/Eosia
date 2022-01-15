@@ -21,7 +21,7 @@
 <a href="https://discord.gg/KK5QeHXHKB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hhttps://discord.gg/KK5QeHXHKB" height="60" width="80" />
  </a>
 </div>
-<div align="right">
+<div align="left">
 <p>InternshipMe</p>
 <a href="https://discord.gg/VJPgz8vgnB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VJPgz8vgnB" height="60" width="80" /></a>
 </div>

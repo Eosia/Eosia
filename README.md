@@ -15,7 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/nSr4AYzQqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nSr4AYzQqe" height="30" width="40" /></a>
+  Omedicx
+<a href="https://discord.gg/KK5QeHXHKB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hhttps://discord.gg/KK5QeHXHKB" height="60" width="80" /></a>
+</p>
+<p align="left">
+InternshipMe
+<a href="https://discord.gg/VJPgz8vgnB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VJPgz8vgnB" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

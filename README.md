@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="left">
+<div display="inline-block">
 
 <a href="https://discord.gg/KK5QeHXHKB" target="_blank">
  <span>Omedicx</span> <br/>

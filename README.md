@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eosia&show_icons=true&locale=en&layout=compact" alt="eosia" /></p>
 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eosia&show_icons=true&theme=ocean_dark&cache=1800&locale=fr)
